@@ -1196,7 +1196,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 15px;
 }
 
-#scrollUp {
+/* #scrollUp {
     border: 1px solid #4e595f;
     bottom: 15px;
     color: #fff;
@@ -1210,7 +1210,7 @@ h1, h2, h3, h4, h5, h6 {
 #scrollUp:hover {
     background-color: #6cb670;
     border: 1px solid #6cb670;
-}
+} */
 
 
 /*=================================================================
@@ -1610,4 +1610,8 @@ blockquote {
 .form-group:last-child input {
   margin: 0;
 }
-                            
+  
+
+#ascrail2000 {
+    display: none !important;
+}
